@@ -7,8 +7,7 @@ public class One {
 		System.out.println("hello1111111111111");
 		System.out.println("hello1111111111111");
 		System.out.println("hello1111111111111");
-		System.out.println("hello1111111111111");
-		System.out.println("hello1111111111111");
+		System.out.println("²úÉú³åÍ»");
 	}
 
 }
